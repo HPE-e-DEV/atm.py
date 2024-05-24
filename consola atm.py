@@ -8,8 +8,8 @@ from datetime import datetime
 
 class Cajero:
 
-    #Siempre se iniciara con 0 en el saldo
-    saldo = 0
+    #Siempre se iniciara con 500000 "Bsd" en el saldo
+    saldo = 500000 "Bsd"
 
     def opcionesCajero(self):
         while True:
